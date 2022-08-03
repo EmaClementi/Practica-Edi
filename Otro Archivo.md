@@ -1,3 +1,3 @@
 # Practica-Edi
 Clase
-Edicionn
+Edicion
