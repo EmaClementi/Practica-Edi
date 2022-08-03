@@ -1,3 +1,2 @@
 # Practica-Edi
-Clase
-Edicionn
+Clase Virtual
